@@ -1,6 +1,9 @@
 # Mr Steal Yo Crypto - Foundry Version ⚒️
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vyorkin/mr-steal-your-crypto-ctf-foundry)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/vyorkin/mr-steal-your-crypto-ctf-foundry)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/vyorkin/mr-steal-your-crypto-ctf-foundry)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/vyorkin/mr-steal-your-crypto-ctf-foundry)
 
 Visit [mrstealyocrypto.xyz](https://mrstealyocrypto.xyz/)
 
